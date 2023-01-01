@@ -13,6 +13,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1kf2nURy1Jnxs-pULig0V9QNGewq_wNh1?usp=share_link](https://drive.google.com/drive/folders/1kf2nURy1Jnxs-pULig0V9QNGewq_wNh1?usp=share_link)
 
 # 💫 About Me:
+- I am a **Quick learner**💻.
 - I have keen interest in **Machine Learning 🕵️‍♀️**.
 - I 😍love to **create and modify new products** and projects👨‍💻.
 - I focus on my **problem-solving skills** as well as **communication skills** 🕵️‍♀️.
