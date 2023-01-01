@@ -15,10 +15,10 @@
 # 💫 About Me:
 - I am a **Quick learner**💻.
 - I have keen interest in **Machine Learning 🕵️‍♀️**.
-- I 😍love to **create and modify new products** and projects👨‍💻.
+- I 😍love to learn **new technologies** as well as keep myself **up-to-date👨‍💻**.
 - I focus on my **problem-solving skills** as well as **communication skills** 🕵️‍♀️.
 - I 👨‍🏫 always like to **share** my **knowledge** and **experience** with my peers.
-- Always excited and ready to **learn new skills👨‍🎓**.
+
 
 
 # 💻 Tech Stack:
