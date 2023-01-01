@@ -37,7 +37,9 @@
     https://github.com/madhuri1104
 
 <!-- Contribution Graph-->
-[![Ravina's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ravinark23&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/madhuri1104)
+
+[![Madhuri's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=madhuri1104)](https://github.com/madhuri1104/github-readme-activity-graph)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=madhuri1104&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
